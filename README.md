@@ -1,7 +1,7 @@
 # PROJECTS-
 first project  of  Linear regression
 
-# MARKET_RISK
+# MARKET_RISK -{EXCEL/PYTHON}
   - PCA
     ->
   - Methods
