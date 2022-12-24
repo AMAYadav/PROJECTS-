@@ -1,5 +1,5 @@
-# PROJECTS-
-first project  of  Linear regression
+## PROJECTS
+
 
 # Portfolio Optimization
 # MARKET_RISK - {EXCEL | PYTHON}
