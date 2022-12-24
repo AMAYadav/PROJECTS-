@@ -1,8 +1,8 @@
-## PROJECTS
+# PROJECTS
 
 
-# Portfolio Optimization
-# MARKET_RISK - {EXCEL | PYTHON}
+## Portfolio Optimization
+## MARKET_RISK - {EXCEL | PYTHON}
   - PCA
     ->
   - Methods
